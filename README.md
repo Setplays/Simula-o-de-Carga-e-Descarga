@@ -1,4 +1,4 @@
-# Simulação Híbrida de Coleta Robótica (Pygame + SimPy)
+# Simulação de Carga e Descarga (Pygame + SimPy)
 
 Este projeto é um modelo de simulação computacional que combina **física contínua em 2D** com a lógica de **eventos discretos**. Ele simula o comportamento estocástico de uma frota de 8 robôs autônomos encarregados de coletar alvos em um ambiente fechado e descarregá-los em suas respectivas bases.
 
